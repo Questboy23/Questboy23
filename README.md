@@ -18,6 +18,7 @@ Every study below fixed its hypotheses in git before touching outcome data.
 
 | Study | Result |
 |---|---|
+| International housing forecaster | 42 countries, 1-year rank IC 0.22 (Newey-West t 8.1), positive in 93% of 42 years. |
 | [Ohio hospital prices](https://reedsmoneymaker23.com/hospitals) | 84 hospitals, 42.8 GB of machine-readable price files. |
 | [Quant VC Lab](https://reedsmoneymaker23.com/vc) | 25,000 startups (Crunchbase + SEC Form D), Holm-corrected tests. |
 | [S&P 500 factor search](https://reedsmoneymaker23.com/sp500) | 0 of 23 angles beat the index on a sealed 2016 to 2026 holdout. |
