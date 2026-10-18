@@ -8,7 +8,6 @@ Portfolio: [reedsmoneymaker23.com](https://reedsmoneymaker23.com)
 
 | Project | What it does |
 |---|---|
-| [DormGlide](https://dormglide.com) | Denison-only buy/sell marketplace. Winner, Red Startup Pitch Gala 2026. |
 | [DenisonSwap](https://denisonswap.com) | Free campus item exchange: post a need, a student with a spare claims it. |
 | [DenisonInterlink](https://denisoninterlink.com) | Campus app: dining, transit, GPA tools, announcements. |
 | [Mr. Heath](https://reedsmoneymaker23.com/tax) | Business tax optimizer. |
