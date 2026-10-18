@@ -4,14 +4,6 @@ Student at Denison University. I build tools and run pre-registered studies, mos
 
 Portfolio: [reedsmoneymaker23.com](https://reedsmoneymaker23.com)
 
-## Live products
-
-| Project | What it does |
-|---|---|
-| [DenisonSwap](https://denisonswap.com) | Free campus item exchange: post a need, a student with a spare claims it. |
-| [DenisonInterlink](https://denisoninterlink.com) | Campus app: dining, transit, GPA tools, announcements. |
-| [Mr. Heath](https://reedsmoneymaker23.com/tax) | Business tax optimizer. |
-
 ## Research
 
 Every study below fixed its hypotheses in git before touching outcome data.
