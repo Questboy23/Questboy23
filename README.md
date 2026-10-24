@@ -1,8 +1,6 @@
-# Reed Ostrov
+# Quest
 
-Student at Denison University. I build tools and run pre-registered studies, mostly in economics, markets, and health data.
-
-Portfolio: [reedsmoneymaker23.com](https://reedsmoneymaker23.com)
+I build whateva I want
 
 ## Research
 
