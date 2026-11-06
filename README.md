@@ -1,6 +1,6 @@
 # Quest
 
-Reed Ostrov, Denison University. I build tools that people can use today.
+I build things
 
 ## Tools
 
