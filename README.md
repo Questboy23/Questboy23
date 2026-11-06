@@ -1,22 +1,18 @@
 # Quest
 
-I build whateva I want
+Reed Ostrov, Denison University. I build tools that people can use today.
+
+## Tools
+
+- **[Lucid Reader](https://github.com/Questboy23/lucid-reader)**: Chrome extension that turns any PDF into an adjustable reading column. **5 reading modes.**
+- **[Leviathan](https://github.com/Questboy23/leviathan)**: Quiet malware protection for a Mac, with every action logged and undoable. **Uses Apple's own XProtect rules.**
+- **[Activity Monitored](https://github.com/Questboy23/activity-monitored)**: Keeps a Mac responsive when it is overloaded. **39.3 s down to 24.2 s on a synthetic overload test.**
+- **[Efficiency Loop](https://github.com/Questboy23/efficiency-loop)**: Claude Code plugin that catches fabricated numbers in files an agent writes. **259 of 260 fabricated test files caught.**
+- **[Euled](https://github.com/Questboy23/euled-shortener)**: Shortens machine-written Lean 4 proofs. **72% to 92% fewer tokens on four IMO 2025 proofs.**
+- **[Number Checker](https://github.com/Questboy23/number-checker)**: Labels every number in an AI answer against its cited source. **Work in progress, 9 of 9 tests pass.**
 
 ## Research
 
-Every study below fixed its hypotheses in git before touching outcome data.
+- **[AI Math Forecast](https://github.com/Questboy23/ai-math-forecast)**: Dated public forecast of which open Erdős problems AI will resolve, with a preregistered backtest. **593 problems.**
 
-| Study | Result |
-|---|---|
-| International housing forecaster | 42 countries, 1-year rank IC 0.22 (Newey-West t 8.1), positive in 93% of 42 years. |
-| [Ohio hospital prices](https://reedsmoneymaker23.com/hospitals) | 84 hospitals, 42.8 GB of machine-readable price files. |
-| [Quant VC Lab](https://reedsmoneymaker23.com/vc) | 25,000 startups (Crunchbase + SEC Form D), Holm-corrected tests. |
-| [S&P 500 factor search](https://reedsmoneymaker23.com/sp500) | 0 of 23 angles beat the index on a sealed 2016 to 2026 holdout. |
-| [SAT answer features](https://reedsmoneymaker23.com/sat) | Linear model over 1,951 real SAT questions. |
-| [Admission odds](https://reedsmoneymaker23.com/admit) | Model built from SFFA lawsuit data across 403 schools. |
-| [Adaptive prefetch](https://reedsmoneymaker23.com/prefetch) | My own idea, tested and rejected on real Taobao sessions. |
-| [Efficiency Loop](https://github.com/Questboy23/efficiency-loop) | Dated, MIT-licensed record of ideas for cheaper coding agents. |
-
-Across prediction markets, crypto, venture and S&P factors: about 2,600 logged trials, no tradable edge over the index.
-
-Built with Claude Code. Design, hypotheses, and decisions are mine.
+Claude Code (Anthropic) wrote code and tests at my direction. The ideas and decisions are mine.
