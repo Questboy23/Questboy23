@@ -15,4 +15,4 @@ I build things
 
 - **[AI Math Forecast](https://github.com/Questboy23/ai-math-forecast)**: Dated public forecast of which open Erdős problems AI will resolve, with a preregistered backtest. **593 problems.**
 
-Claude Code (Anthropic) wrote code and tests at my direction. The ideas and decisions are mine.
+
